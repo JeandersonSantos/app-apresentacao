@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/tools">
+    <!-- Search / will display always -->
+    <item android:id="@+id/compartilhar"
+        android:icon="@mipmap/compartilhar"
+        android:title="Compartilhar" />
+    <item android:id="@+id/informacaoes"
+        android:icon="@mipmap/informacoes"
+        android:title="Informações" />
+    <item android:id="@+id/duvidas"
+        android:icon="@mipmap/duvidas"
+        app:showAsAction="ifRoom"
+        android:title="Duvidas" />
+
+
+</menu>

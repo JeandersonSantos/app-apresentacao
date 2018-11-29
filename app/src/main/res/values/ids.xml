@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="reservedNamedId" type="id"/>
+    <item name="reservedNamedId2" type="id"/>
+    <item name="reservedNamedId3" type="id"/>
+    <item name="reservedNamedId4" type="id"/>
+    <item name="reservedNamedId5" type="id"/>
+    <item name="reservedNamedId6" type="id"/>
+    <item name="reservedNamedId7" type="id"/>
+    <item name="reservedNamedId8" type="id"/>
+    <item name="reservedNamedId9" type="id"/>
+    <item name="reservedNamedId10" type="id"/>
+    <item name="reservedNamedId11" type="id"/>
+</resources>
